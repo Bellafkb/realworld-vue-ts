@@ -9548,7 +9548,7 @@ vue-loader@^15.7.0:
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
 
-vue-property-decorator@^8.1.0:
+vue-property-decorator@^8.2.1:
   version "8.2.1"
   resolved "https://registry.yarnpkg.com/vue-property-decorator/-/vue-property-decorator-8.2.1.tgz#3791662033b20d20d098cb20e86fd23842982508"
   integrity sha512-zgtcvzGB2JpDqnIxVhTK+6m+dv3uyhYs+tL8elL+DWiXj9kDonKcPY7f1DHYX1NlnWPCj7ht0nL/i8+S1gg76Q==
@@ -9586,6 +9586,11 @@ vue@^2.6.10:
   version "2.6.10"
   resolved "https://registry.yarnpkg.com/vue/-/vue-2.6.10.tgz#a72b1a42a4d82a721ea438d1b6bf55e66195c637"
   integrity sha512-ImThpeNU9HbdZL3utgMCq0oiMzAkt1mcgy3/E6zWC/G6AaQoeuFdsl9nDhTDU3X1R6FK7nsIUuRACVcjI+A2GQ==
+
+vuex-module-decorators@^0.9.9:
+  version "0.9.9"
+  resolved "https://registry.yarnpkg.com/vuex-module-decorators/-/vuex-module-decorators-0.9.9.tgz#3d278531cbd41435b3cba255a6e4db8a2bb3bf5b"
+  integrity sha512-SxCyuv9FEwUc2jKfCtAHaMDwsC0acVLBeZo6OUlrA8e+tzT5qwvnZevrRIpPJY4nfiiBvIBTYFu+3l+c2Bemeg==
 
 vuex@^3.0.1:
   version "3.1.1"
